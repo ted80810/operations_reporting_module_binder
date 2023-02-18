@@ -96,6 +96,7 @@ pyparsing>=3.0.9
 pypdf2>=2.11.1
 pyrsistent>=0.18.1
 pysocks>=1.7.1
+python
 readline
 requests>=2.28.1
 send2trash>=1.8.0
