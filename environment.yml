@@ -48,7 +48,6 @@ dependencies:
   - libgfortran5=9.3.0
   - liblapack=3.9.0
   - liblapacke
-  - libopenblas=0.3.20
   - libsodium=1.0.18
   - llvm-openmp=14.0.4
   - matplotlib-inline=0.1.3=pyhd8ed1ab_0
