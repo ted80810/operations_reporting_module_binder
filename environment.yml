@@ -13,7 +13,7 @@ dependencies:
   - backports=1.0=py_2
   - backports.functools_lru_cache=1.6.4=pyhd8ed1ab_0
   - beautifulsoup4=4.11.1=pyha770c72_0
-  - blas=2.115=openblas
+  - blas
   - blas-devel=3.9.0
   - bleach=5.0.1=pyhd8ed1ab_0
   - bzip2=1.0.8
@@ -44,7 +44,7 @@ dependencies:
   - libcblas=3.9.0
   - libcxx=12.0.0
   - libffi=3.3
-  - libgfortran=5.0.0
+  - libgfortran
   - libgfortran5=9.3.0
   - liblapack=3.9.0
   - liblapacke=3.9.0=15_osx64_openblas
@@ -62,7 +62,7 @@ dependencies:
   - nest-asyncio=1.5.5=pyhd8ed1ab_0
   - notebook=6.4.12=pyha770c72_0
   - notebook-shim=0.1.0=pyhd8ed1ab_0
-  - openblas=0.3.20
+  - openblas
   - openjdk=8.0.332
   - openssl=1.1.1s
   - packaging=21.3=pyhd8ed1ab_0
