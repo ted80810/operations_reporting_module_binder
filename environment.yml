@@ -63,7 +63,6 @@ dependencies:
   - notebook=6.4.12=pyha770c72_0
   - notebook-shim=0.1.0=pyhd8ed1ab_0
   - openjdk=8.0.332
-  - opencv-python
   - openssl=1.1.1s
   - packaging=21.3=pyhd8ed1ab_0
   - pandoc=2.18
@@ -130,6 +129,7 @@ dependencies:
     - numpy==1.22.1
     - openpyxl==3.0.10
     - pandas==1.4.3
+    - pdfplumber
     - pip==21.2.4
     - psutil==5.9.1
     - pyrsistent==0.18.1
