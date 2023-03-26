@@ -117,6 +117,7 @@ dependencies:
     - camelot-py
     - cffi==1.15.0
     - cryptography==37.0.4
+    - opencv-python
     - debugpy==1.5.1
     - importlib-metadata==4.11.4
     - ipython==8.4.0
