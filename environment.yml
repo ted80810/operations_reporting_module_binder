@@ -17,6 +17,7 @@ dependencies:
   - blas-devel=3.9.0
   - bleach=5.0.1=pyhd8ed1ab_0
   - bzip2=1.0.8
+  - camelot-py
   - ca-certificates=2022.12.7
   - certifi=2022.12.7=pyhd8ed1ab_0
   - charset-normalizer=2.1.0=pyhd8ed1ab_0
@@ -62,6 +63,7 @@ dependencies:
   - notebook=6.4.12=pyha770c72_0
   - notebook-shim=0.1.0=pyhd8ed1ab_0
   - openjdk=8.0.332
+  - opencv-python
   - openssl=1.1.1s
   - packaging=21.3=pyhd8ed1ab_0
   - pandoc=2.18
@@ -117,7 +119,6 @@ dependencies:
     - camelot-py
     - cffi==1.15.0
     - cryptography==37.0.4
-    - opencv-python
     - debugpy==1.5.1
     - importlib-metadata==4.11.4
     - ipython==8.4.0
