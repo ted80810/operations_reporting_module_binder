@@ -92,6 +92,7 @@ dependencies:
   - soupsieve=2.3.2.post1=pyhd8ed1ab_0
   - sqlite=3.38.5
   - stack_data=0.3.0=pyhd8ed1ab_0
+  - tabula-py
   - tinycss2=1.1.1=pyhd8ed1ab_0
   - tk=8.6.12
   - tomli=2.0.1=pyhd8ed1ab_0
