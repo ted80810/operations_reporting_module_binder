@@ -21,6 +21,7 @@ dependencies:
   - ca-certificates=2022.12.7
   - certifi=2022.12.7=pyhd8ed1ab_0
   - charset-normalizer=2.1.0=pyhd8ed1ab_0
+  - conda=2.10.1
   - decorator=5.1.1=pyhd8ed1ab_0
   - defusedxml=0.7.1=pyhd8ed1ab_0
   - entrypoints=0.4=pyhd8ed1ab_0
